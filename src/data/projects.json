@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Talent Pay",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Java", "SpringBoot", "MSQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/uhtetaungkyaw/talent-pay"
+  },
+  {
+    "title": "Spring Cloud Netflix",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Java", "SpringBoot", "Mysql"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/uhtetaungkyaw/spring-cloud-netflix"
+  },
+  {
+    "title": "Little Lemon Booking",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Python", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/uhtetaungkyaw/LittleLemon_Booking"
+  },
+  {
+    "title": "Hotel Booking",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Java", "SpringBoot", "Mysql", "Thymeleaf"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/uhtetaungkyaw/hotel-booking-assignment"
+  }
+]
