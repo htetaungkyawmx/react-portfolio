@@ -26,10 +26,6 @@ export const Contact = () => {
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
           <a href="https://www.github.com/htetaungkyawmx">github.com/htetaungkyawmx</a>
         </li>
-        {/* <li className={styles.link}>
-          <img src={getImageUrl("contact/facebook.png")} alt="Facebook icon" />
-          <a href="https://www.facebook.com/htetaungkyawmx">facebook.com/htetaungkyawmx</a>
-        </li> */}
       </ul>
     </footer>
   );
