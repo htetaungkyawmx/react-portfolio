@@ -30,5 +30,13 @@
     "skills": ["Java", "SpringBoot", "Mysql", "Thymeleaf"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com/uhtetaungkyaw/hotel-booking-assignment"
+  },
+  {
+    "title": "SNU Search",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Java", "SpringBoot", "Mysql", "Thymeleaf"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/htetaungkyawmx/snu-search"
   }
 ]
